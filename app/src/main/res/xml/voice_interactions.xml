@@ -1,0 +1,7 @@
+<voice-interaction xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <interaction>
+        <prompt>Set as default assistant?</prompt>
+    </interaction>
+
+</voice-interaction>
